@@ -1,0 +1,13 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# 构建产物
+bin/
+obj/
+
+# 工作区记忆
+.workbuddy/
